@@ -1,6 +1,5 @@
 - question: "Pick a color:"
   answers:
-  	- image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png
     answer: red
     image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png
     answer: blue
