@@ -11,6 +11,7 @@ title:  "Welcome to Jekyll!"
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.4.2/dist/js/uikit-icons.min.js"></script>
 
 <h3> {{site.time}}</h3>
+<h2> {{site.data.quiz1}}</h2>
 
 <ul>
 {% for member in site.data.members %}
@@ -24,7 +25,7 @@ title:  "Welcome to Jekyll!"
 
 <form>
 
-{{site.data.quiz1}}
+
 {% for question in site.data.quiz1 %}
 <div class="uk-h3">{{question.question}}</div>
 <div class="uk-grid uk-grid-medium uk-grid-row-large uk-form-controls">
