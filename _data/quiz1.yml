@@ -1,0 +1,30 @@
+- question: "Pick a color:"
+  answers:
+  	- answer: red
+  	- image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png
+  	- answer: blue
+  	- image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png
+  	- answer: green
+  	- image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png
+  	- answer: orange
+  	- image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png
+- question: "Pick a city"
+  answers:
+  	- answer: nyc
+  	- image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png
+  	- answer: chicago
+  	- image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png
+  	- answer: detroit
+  	- image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png
+  	- answer: seattle
+  	- image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png
+- question: "Pick a food"
+  answers:
+  	- answer: french fries
+  	- image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png
+  	- answer: salad
+  	- image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png
+  	- answer: burger
+  	- image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png
+  	- answer: candy
+  	- image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1200px-SNice.svg.png
