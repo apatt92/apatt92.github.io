@@ -24,6 +24,7 @@ title:  "Welcome to Jekyll!"
 
 <form>
 
+{{site.data.quiz1}}
 {% for question in site.data.quiz1 %}
 <div class="uk-h3">{{question.question}}</div>
 <div class="uk-grid uk-grid-medium uk-grid-row-large uk-form-controls">
