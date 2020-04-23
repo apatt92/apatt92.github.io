@@ -10,19 +10,6 @@ title:  "Welcome to Jekyll!"
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.4.2/dist/js/uikit.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.4.2/dist/js/uikit-icons.min.js"></script>
 
-<h3> {{site.time}}</h3>
-<h2> {{site.data.quiz1}}</h2>
-
-<ul>
-{% for member in site.data.members %}
-  <li>
-    <a href="https://github.com/{{ member.github }}">
-      {{ member.name }}
-    </a>
-  </li>
-{% endfor %}
-</ul> 
-
 <form>
 
 
