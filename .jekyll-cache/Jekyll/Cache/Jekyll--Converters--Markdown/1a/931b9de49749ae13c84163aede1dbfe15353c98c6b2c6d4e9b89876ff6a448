@@ -1,0 +1,89 @@
+I"è	<!-- UIkit CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.4.2/dist/css/uikit.min.css" />
+
+<!-- UIkit JS -->
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.4.2/dist/js/uikit.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.4.2/dist/js/uikit-icons.min.js"></script>
+
+<h3> 2020-04-23 15:51:30 -0400</h3>
+
+<ul>
+
+  <li>
+    <a href="https://github.com/konklone">
+      Eric Mill
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/parkr">
+      Parker Moore
+    </a>
+  </li>
+
+  <li>
+    <a href="https://github.com/liufengyun">
+      Liu Fengyun
+    </a>
+  </li>
+
+</ul>
+
+<form>
+
+
+<div class="uk-h3">Pick a color:</div>
+<div class="uk-grid uk-grid-medium uk-grid-row-large uk-form-controls">
+
+            <label><input class="uk-radio" type="radio" name="pick-a-color" value="red" />red</label>
+            
+
+            <label><input class="uk-radio" type="radio" name="pick-a-color" value="blue" />blue</label>
+            
+
+            <label><input class="uk-radio" type="radio" name="pick-a-color" value="green" />green</label>
+            
+
+            <label><input class="uk-radio" type="radio" name="pick-a-color" value="orange" />orange</label>
+            
+
+</div>
+
+<div class="uk-h3">Pick a city</div>
+<div class="uk-grid uk-grid-medium uk-grid-row-large uk-form-controls">
+
+            <label><input class="uk-radio" type="radio" name="pick-a-city" value="nyc" />nyc</label>
+            
+
+            <label><input class="uk-radio" type="radio" name="pick-a-city" value="chicago" />chicago</label>
+            
+
+            <label><input class="uk-radio" type="radio" name="pick-a-city" value="detroit" />detroit</label>
+            
+
+            <label><input class="uk-radio" type="radio" name="pick-a-city" value="seattle" />seattle</label>
+            
+
+</div>
+
+<div class="uk-h3">Pick a food</div>
+<div class="uk-grid uk-grid-medium uk-grid-row-large uk-form-controls">
+
+            <label><input class="uk-radio" type="radio" name="pick-a-food" value="french-fries" />french fries</label>
+            
+
+            <label><input class="uk-radio" type="radio" name="pick-a-food" value="salad" />salad</label>
+            
+
+            <label><input class="uk-radio" type="radio" name="pick-a-food" value="burger" />burger</label>
+            
+
+            <label><input class="uk-radio" type="radio" name="pick-a-food" value="candy" />candy</label>
+            
+
+</div>
+
+</form>
+
+:ET
